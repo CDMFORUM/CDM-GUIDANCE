@@ -7,5 +7,5 @@ This guidance repository contains materials intended to support these implementa
 ### The wiki organizes the materials in this repository
 Please visit the wiki in this repository at [https://github.com/CDMFORUM/CDM-GUIDANCE/wiki] (https://github.com/CDMFORUM/CDM-GUIDANCE/wiki)
 
-### The issue tracker includes guidance questions and potential areas of expansion
+### The issue tracker includes guidance questions and potential areas of enhancement
 Please visit the guidance issue tracker in this repository at [https://github.com/CDMFORUM/CDM-GUIDANCE/issues] (https://github.com/CDMFORUM/CDM-GUIDANCE/issues)
