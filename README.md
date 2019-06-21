@@ -8,7 +8,7 @@ This guidance repository contains materials intended to support these implementa
 Please visit the wiki in this repository at [https://github.com/CDMFORUM/CDM-GUIDANCE/wiki] (https://github.com/CDMFORUM/CDM-GUIDANCE/wiki)
 
 ### Where to find the Common Data Model (CDM) specification
-The CDM specification is hosted at [http://www.pcornet.org/pcornet-common-data-model/] (http://www.pcornet.org/pcornet-common-data-model/)
+The CDM specification is hosted at [https://pcornet.org/data-driven-common-model/] (https://pcornet.org/data-driven-common-model/)
 
 ### The issue tracker includes guidance questions and potential areas of enhancement
 Please visit the guidance issue tracker in this repository at [https://github.com/CDMFORUM/CDM-GUIDANCE/issues] (https://github.com/CDMFORUM/CDM-GUIDANCE/issues)
